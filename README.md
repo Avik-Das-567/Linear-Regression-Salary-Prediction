@@ -1,4 +1,11 @@
-### Linear Regression with Streamlit - Salary Prediction
-* **Example Problem:** Predicting Salary Based on Experience and Age
+# Linear Regression with Streamlit - Salary Prediction
+### App Link
+* https://salary-prediction-linear-regression.streamlit.app/
+## Example Problem
+* Predicting Salary Based on Experience and Age
 * We have data about **Experience in Years**, **Age**, and **Salary in Thousands**
-* **Objective:** To train a model using **`LinearRegression()`** and predict the **Salary** based on the **Experience** and **Age** (which are taken as User Input)
+## How it Works
+* Load the data using **`pd.read_csv()`**
+* Train a model using **`LinearRegression()`**
+* Ask user inputs for both **Experience** and **age**
+* Show result using **`st.write()`**
