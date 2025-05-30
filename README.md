@@ -1,6 +1,6 @@
 # Linear Regression with Streamlit - Salary Prediction
 ### App Link
-* https://salary-prediction-linear-regression.streamlit.app/
+* https://linear-regression-salary-prediction.streamlit.app/
 ## Objective
 * Predicting the **Salary** Based on **Experience** and **Age**
 * **Example Problem:** We have data about **Experience in Years**, **Age**, and **Salary in Thousands**
